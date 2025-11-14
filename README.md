@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://mokadami-olexus.github.io/.github/mindnote">  
+<a href="https://app-setup-osx.github.io/.github/mindnote">  
 <img src="https://img.shields.io/badge/✨_Get_MindNote-purple?style=for-the-badge&logo=apple" alt="MindNote Access">  
 </a>  
 </div>  
